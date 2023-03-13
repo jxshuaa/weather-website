@@ -10,6 +10,6 @@
     <li>Replace <code>'yourapi'</code> with the API key you obtain from <a href="https://openweathermap.org/" target="_blank">https://openweathermap.org/</a> (remember to keep it private).</li>
     <li>Save the changes and run the application.</li>
   </ol>
-  <p>That's it! If you have any questions or suggestions, please don't hesitate to reach out to me.</p>
+  <p>That's it! If you have any questions or suggestions, please don't hesitate to reach out to me or just simply create a issue.
 </body>
 </html>
