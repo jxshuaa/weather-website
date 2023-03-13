@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>My Git Repository</title>
-</head>
-<body>
-  <h1>Hello there!</h1>
+# WEATHER APP
+
+<h1>Hello there!</h1>
   <p>Thank you for visiting my Git repository. Here, you'll find the source code for a weather application that I've been working on. Unfortunately, in this version, the API is not included due to limited request usages. However, you can still check the weather by visiting my website at <a href="https://weather.jxshua.tech/" target="_blank">https://weather.jxshua.tech/</a>.</p>
   <p>If you're interested in modifying the code and using your own API key, please follow the steps below:</p>
   <ol>
